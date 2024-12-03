@@ -22,3 +22,4 @@ def data_getting(id: int) -> dict[str, Any] | set[str]:
         return {"Нет пользователя с таким id"}
 
 #/register/?first_name=один&second_name=два&age=3&email=четыре
+#
