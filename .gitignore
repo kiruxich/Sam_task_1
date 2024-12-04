@@ -1,3 +1,4 @@
 .idea
 task_1/__pycache__/
 venv/
+identifier.sqlite
